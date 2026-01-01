@@ -2,8 +2,8 @@ name: Update Epic Free Games
 
 on:
   schedule:
-    # 매시간 0분 실행
-    - cron: '30 * * * *'
+    # 매시간 정각 실행
+    - cron: '0 * * * *'
   workflow_dispatch:  # 수동 실행
 
 jobs:

@@ -23,7 +23,7 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install .
+        run: pip install epicstore-api httpx
 
       - name: Update game data
         run: python -m src.main

@@ -2,10 +2,11 @@ name: Update Epic Free Games
 
 on:
   schedule:
-    # 매일 KST 18:00 (UTC 09:00)
-    - cron: '0 9 * * *'
-    # 매주 목요일 KST 17:00 (UTC 08:00) - Epic 신규 무료게임 공개일
-    - cron: '0 8 * * 4'
+    # Epic 업데이트 기준 (16:00 UTC = KST 01:00)
+    - cron: '20 15 * * *'   # 40분 전 - UTC 15:20 = KST 00:20
+    - cron: '1 16 * * *'    # 1분 후  - UTC 16:01 = KST 01:01
+    - cron: '10 16 * * *'   # 10분 후 - UTC 16:10 = KST 01:10
+    - cron: '30 16 * * *'   # 30분 후 - UTC 16:30 = KST 01:30
   workflow_dispatch:  # 수동 실행
 
 jobs:

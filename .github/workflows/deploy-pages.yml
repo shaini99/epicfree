@@ -1,10 +1,10 @@
 name: Deploy Pages
 
 on:
-  push:
-    branches: [master]
-    paths:
-      - "web/**"
+  workflow_run:
+    workflows: ["Update Epic Free Games"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:

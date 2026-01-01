@@ -26,6 +26,29 @@ jobs:
       - name: Update game data
         run: python -m src.main
 
+      - name: Show update summary
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("web/data/games-free.json")
+          if not path.exists():
+              print("games-free.json not found")
+              raise SystemExit(0)
+
+          data = json.loads(path.read_text(encoding="utf-8"))
+          def titles(items):
+              return [item.get("title", "Unknown") for item in items]
+
+          current = titles(data.get("currentFree", []))
+          upcoming = titles(data.get("upcoming", []))
+
+          print("Current free:", ", ".join(current) if current else "None")
+          print("Upcoming:", ", ".join(upcoming) if upcoming else "None")
+          print("Past count:", len(data.get("past", [])))
+          PY
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

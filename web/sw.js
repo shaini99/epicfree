@@ -1,5 +1,5 @@
 // Service Worker for Epic Free Games
-const CACHE_NAME = 'epicfree-v1';
+const CACHE_NAME = 'epicfree-v2';
 const STATIC_ASSETS = [
     '/',
     '/index.html',
@@ -45,8 +45,12 @@ self.addEventListener('activate', (event) => {
 
 // Fetch Event - Network First, Cache Fallback
 self.addEventListener('fetch', (event) => {
+    const requestUrl = new URL(event.request.url);
+    const isGameData = requestUrl.pathname.endsWith('/data/games-free.json');
+    const cacheKey = isGameData ? new Request('/data/games-free.json') : event.request;
+
     event.respondWith(
-        fetch(event.request)
+        fetch(event.request, isGameData ? { cache: 'no-store' } : undefined)
             .then((response) => {
                 // Clone response for caching
                 const responseClone = response.clone();
@@ -54,7 +58,7 @@ self.addEventListener('fetch', (event) => {
                 // Cache successful responses
                 if (response.status === 200) {
                     caches.open(CACHE_NAME).then((cache) => {
-                        cache.put(event.request, responseClone);
+                        cache.put(cacheKey, responseClone);
                     });
                 }
 
@@ -62,7 +66,7 @@ self.addEventListener('fetch', (event) => {
             })
             .catch(() => {
                 // Network failed, try cache
-                return caches.match(event.request)
+                return caches.match(cacheKey)
                     .then((cachedResponse) => {
                         if (cachedResponse) {
                             return cachedResponse;

@@ -1,6 +1,6 @@
 // Epic Free Games - Main JavaScript
 
-const DATA_URL = 'data/games-free.json';
+const DATA_URL = `data/games-free.json?v=${Date.now()}`;
 
 // State
 let allGames = [];

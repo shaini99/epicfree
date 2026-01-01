@@ -1,0 +1,36 @@
+name: Update Epic Free Games
+
+on:
+  schedule:
+    # 매일 KST 18:00 (UTC 09:00)
+    - cron: '0 9 * * *'
+    # 매주 목요일 KST 17:00 (UTC 08:00) - Epic 신규 무료게임 공개일
+    - cron: '0 8 * * 4'
+  workflow_dispatch:  # 수동 실행
+
+jobs:
+  update-games:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install .
+
+      - name: Update game data
+        run: python -m src.main
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add web/data/games-free.json
+          git diff --staged --quiet || (git commit -m "🎮 Update Epic free games data [bot]" && git push)

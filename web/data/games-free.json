@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T14:37:51.599768+00:00",
+  "updated": "2026-01-22T15:37:18.784697+00:00",
   "currentFree": [
     {
       "id": "ed109adce3c042f792f48d629221ac8b",
@@ -53,6 +53,26 @@
         "metacritic": 65,
         "opencritic": null,
         "steam": 80,
+        "scoreColor": "yellow"
+      }
+    },
+    {
+      "id": "b916500f733b4973802bdb4fdb276515",
+      "slug": "definitely-not-fried-chicken-a30160",
+      "namespace": "8d8fb21ac3554271853582bad9d394d7",
+      "title": "Definitely Not Fried Chicken",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/definitely-not-fried-chicken-a30160",
+      "freePeriod": {
+        "start": "2026-01-29T16:00:00+00:00",
+        "end": "2026-02-05T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 73,
         "scoreColor": "yellow"
       }
     }

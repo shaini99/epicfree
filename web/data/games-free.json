@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-03T23:33:53.869707+00:00",
+  "updated": "2026-02-04T02:33:53.423028+00:00",
   "currentFree": [
     {
       "id": "b916500f733b4973802bdb4fdb276515",
@@ -12,7 +12,14 @@
         "start": "2026-01-29T16:00:00+00:00",
         "end": "2026-02-05T16:00:00+00:00"
       },
-      "genres": []
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 73,
+        "scoreColor": "yellow"
+      }
     }
   ],
   "upcoming": [
@@ -27,7 +34,14 @@
         "start": "2026-02-05T16:00:00+00:00",
         "end": "2026-02-12T16:00:00+00:00"
       },
-      "genres": []
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 82,
+        "opencritic": null,
+        "steam": 94,
+        "scoreColor": "green"
+      }
     },
     {
       "id": "f643a600e99c43cca99d1ca37b41fe33",
@@ -40,7 +54,14 @@
         "start": "2026-02-05T16:00:00+00:00",
         "end": "2026-02-12T16:00:00+00:00"
       },
-      "genres": []
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 93,
+        "scoreColor": "green"
+      }
     }
   ],
   "past": [

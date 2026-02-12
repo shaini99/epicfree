@@ -1,28 +1,6 @@
 {
-  "updated": "2026-02-12T15:58:43.013142+00:00",
+  "updated": "2026-02-12T17:10:45.375129+00:00",
   "currentFree": [
-    {
-      "id": "855a903d4f694353ac20f74321f6e400",
-      "slug": "botany-manor-e7c456",
-      "namespace": "969bbfac9e7840a986c1d594ccd55c01",
-      "title": "Botany Manor",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1f7uq.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/botany-manor-e7c456",
-      "freePeriod": {
-        "start": "2026-02-05T16:00:00+00:00",
-        "end": "2026-02-12T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "epic": null,
-        "metacritic": 82,
-        "opencritic": null,
-        "steam": 94,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "9e3c580751a94c6d8a1b8b08b2e3d21f",
       "slug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
@@ -45,11 +23,11 @@
     },
     {
       "id": "9da459f7c3984877bd5a12bdc3b6b3af",
-      "slug": "",
+      "slug": "nobody-wants-to-die-fe21cd",
       "namespace": "60b8d9b4c2be4e34aeec311c953c2ee2",
       "title": "Nobody Wants to Die",
       "thumbnail": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-13stz.jpg",
-      "epicUrl": "",
+      "epicUrl": "https://store.epicgames.com/ko/p/nobody-wants-to-die-fe21cd",
       "freePeriod": {
         "start": "2026-02-12T16:00:00+00:00",
         "end": "2026-02-19T16:00:00+00:00"
@@ -62,14 +40,16 @@
         "steam": 84,
         "scoreColor": "green"
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "id": "d6111db209c34b068736ca33411c9209",
-      "slug": "stalcraft-x-starter-edition",
+      "slug": "stalcraft-x-057c4a",
       "namespace": "1319020a7c08408489d4dc9c5b1df4c0",
       "title": "STALCRAFT: X Starter Edition",
       "thumbnail": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1gxje.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/stalcraft-x-starter-edition",
+      "epicUrl": "https://store.epicgames.com/ko/p/stalcraft-x-057c4a",
       "freePeriod": {
         "start": "2026-02-19T16:00:00+00:00",
         "end": "2026-02-26T16:00:00+00:00"
@@ -78,11 +58,11 @@
     },
     {
       "id": "06cd7ef2079646dcb6c5b04e04e1d676",
-      "slug": "return-to-ash",
+      "slug": "return-to-ash-dee3ff",
       "namespace": "511a5b709ee242fb9603378b071d99d7",
       "title": "Return to Ash",
       "thumbnail": "https://cdn1.epicgames.com/spt-assets/07c1bf7c44dc4c2e8567923f03c7d307/return-to-ash-qcdax.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/return-to-ash",
+      "epicUrl": "https://store.epicgames.com/ko/p/return-to-ash-dee3ff",
       "freePeriod": {
         "start": "2026-02-19T16:00:00+00:00",
         "end": "2026-02-26T16:00:00+00:00"
@@ -115,6 +95,26 @@
         "metacritic": null,
         "opencritic": null,
         "steam": 93,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "855a903d4f694353ac20f74321f6e400",
+      "slug": "botany-manor-e7c456",
+      "namespace": "969bbfac9e7840a986c1d594ccd55c01",
+      "title": "Botany Manor",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1f7uq.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/botany-manor-e7c456",
+      "freePeriod": {
+        "start": "2026-02-05T16:00:00+00:00",
+        "end": "2026-02-12T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 82,
+        "opencritic": null,
+        "steam": 94,
         "scoreColor": "green"
       }
     },

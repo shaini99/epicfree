@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T14:53:35.057457+00:00",
+  "updated": "2026-02-12T15:58:43.013142+00:00",
   "currentFree": [
     {
       "id": "855a903d4f694353ac20f74321f6e400",
@@ -18,26 +18,6 @@
         "metacritic": 82,
         "opencritic": null,
         "steam": 94,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "f643a600e99c43cca99d1ca37b41fe33",
-      "slug": "pixel-gun-3d-812855",
-      "namespace": "964bca52db2845498a7040b3733c4441",
-      "title": "Poison Retro Set",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-1pp3a.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/pixel-gun-3d-812855",
-      "freePeriod": {
-        "start": "2026-02-05T16:00:00+00:00",
-        "end": "2026-02-12T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "epic": null,
-        "metacritic": null,
-        "opencritic": null,
-        "steam": 93,
         "scoreColor": "green"
       }
     }
@@ -65,11 +45,11 @@
     },
     {
       "id": "9da459f7c3984877bd5a12bdc3b6b3af",
-      "slug": "nobody-wants-to-die-fe21cd",
+      "slug": "",
       "namespace": "60b8d9b4c2be4e34aeec311c953c2ee2",
       "title": "Nobody Wants to Die",
       "thumbnail": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-13stz.jpg",
-      "epicUrl": "https://store.epicgames.com/ko/p/nobody-wants-to-die-fe21cd",
+      "epicUrl": "",
       "freePeriod": {
         "start": "2026-02-12T16:00:00+00:00",
         "end": "2026-02-19T16:00:00+00:00"
@@ -82,9 +62,62 @@
         "steam": 84,
         "scoreColor": "green"
       }
+    },
+    {
+      "id": "d6111db209c34b068736ca33411c9209",
+      "slug": "stalcraft-x-starter-edition",
+      "namespace": "1319020a7c08408489d4dc9c5b1df4c0",
+      "title": "STALCRAFT: X Starter Edition",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1gxje.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/stalcraft-x-starter-edition",
+      "freePeriod": {
+        "start": "2026-02-19T16:00:00+00:00",
+        "end": "2026-02-26T16:00:00+00:00"
+      },
+      "genres": []
+    },
+    {
+      "id": "06cd7ef2079646dcb6c5b04e04e1d676",
+      "slug": "return-to-ash",
+      "namespace": "511a5b709ee242fb9603378b071d99d7",
+      "title": "Return to Ash",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/07c1bf7c44dc4c2e8567923f03c7d307/return-to-ash-qcdax.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/return-to-ash",
+      "freePeriod": {
+        "start": "2026-02-19T16:00:00+00:00",
+        "end": "2026-02-26T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 98,
+        "scoreColor": "green"
+      }
     }
   ],
   "past": [
+    {
+      "id": "f643a600e99c43cca99d1ca37b41fe33",
+      "slug": "pixel-gun-3d-812855",
+      "namespace": "964bca52db2845498a7040b3733c4441",
+      "title": "Poison Retro Set",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-1pp3a.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/pixel-gun-3d-812855",
+      "freePeriod": {
+        "start": "2026-02-05T16:00:00+00:00",
+        "end": "2026-02-12T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 93,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "b916500f733b4973802bdb4fdb276515",
       "slug": "definitely-not-fried-chicken-a30160",

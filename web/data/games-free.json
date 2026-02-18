@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T14:51:50.037088+00:00",
+  "updated": "2026-02-18T15:57:56.293336+00:00",
   "currentFree": [
     {
       "id": "9e3c580751a94c6d8a1b8b08b2e3d21f",
@@ -17,7 +17,7 @@
         "epic": null,
         "metacritic": 84,
         "opencritic": null,
-        "steam": null,
+        "steam": 96,
         "scoreColor": "green"
       }
     },
@@ -32,7 +32,14 @@
         "start": "2026-02-12T16:00:00+00:00",
         "end": "2026-02-19T16:00:00+00:00"
       },
-      "genres": []
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 84,
+        "scoreColor": "green"
+      }
     }
   ],
   "upcoming": [
@@ -47,7 +54,14 @@
         "start": "2026-02-19T16:00:00+00:00",
         "end": "2026-02-26T16:00:00+00:00"
       },
-      "genres": []
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 98,
+        "scoreColor": "green"
+      }
     },
     {
       "id": "d6111db209c34b068736ca33411c9209",

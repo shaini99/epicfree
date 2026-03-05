@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T14:52:39.016009+00:00",
+  "updated": "2026-03-05T15:55:11.114401+00:00",
   "currentFree": [
     {
       "id": "14bd618815aa43209a3613e5bc2c2274",
@@ -61,6 +61,46 @@
         "opencritic": null,
         "steam": 81,
         "scoreColor": "green"
+      }
+    },
+    {
+      "id": "c367569acede446995c5a3663e993446",
+      "slug": "cozy-grove",
+      "namespace": "768ec2d3b5114ac4a800631b12ee3f31",
+      "title": "Cozy Grove",
+      "thumbnail": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG-2560x1440-570add3e55ecf729bd4f3a221ca7927a.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/cozy-grove",
+      "freePeriod": {
+        "start": "2026-03-12T15:00:00+00:00",
+        "end": "2026-03-19T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 90,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "4889207626a44fed973f5e72ae79ce9d",
+      "slug": "isonzo",
+      "namespace": "30de69013f3b41b0ba594a8ef3b693ba",
+      "title": "Isonzo",
+      "thumbnail": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_Isonzo_BlackMillGames_S1_2560x1440-c45b9d495ea324c69ad872aeccc9fb7d",
+      "epicUrl": "https://store.epicgames.com/ko/p/isonzo",
+      "freePeriod": {
+        "start": "2026-03-12T15:00:00+00:00",
+        "end": "2026-03-19T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 73,
+        "opencritic": null,
+        "steam": 86,
+        "scoreColor": "yellow"
       }
     },
     {

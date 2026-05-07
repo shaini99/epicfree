@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T11:52:14.635918+00:00",
+  "updated": "2026-05-07T14:28:11.573146+00:00",
   "currentFree": [
     {
       "id": "0623017cf9f341efbe07557f46beb4e8",
@@ -75,6 +75,32 @@
         "steam": 88,
         "scoreColor": "green"
       }
+    },
+    {
+      "id": "73a4416d5cdb42f682d504fdf48e987b",
+      "slug": "megasale-mysterygame-2026-02",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Mystery Game 2",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1",
+      "epicUrl": "https://store.epicgames.com/ko/p/megasale-mysterygame-2026-02",
+      "freePeriod": {
+        "start": "2026-05-14T15:00:00+00:00",
+        "end": "2026-05-21T15:00:00+00:00"
+      },
+      "genres": []
+    },
+    {
+      "id": "190cb955f17f48dcb8576aa8288c887f",
+      "slug": "megasale-mysterygame-2026",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "title": "Mystery Game 1",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1",
+      "epicUrl": "https://store.epicgames.com/ko/p/megasale-mysterygame-2026",
+      "freePeriod": {
+        "start": "2026-05-14T15:00:00+00:00",
+        "end": "2026-05-21T15:00:00+00:00"
+      },
+      "genres": []
     }
   ],
   "past": [

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T11:42:55.587612+00:00",
+  "updated": "2026-06-25T14:45:00.097437+00:00",
   "currentFree": [
     {
       "id": "ea365d314ecf4224a5f58d2d7430e7aa",
@@ -80,6 +80,46 @@
         "metacritic": 76,
         "opencritic": null,
         "steam": 78,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "9bf3d3188d1e498095bc23c0955538d9",
+      "slug": "river-city-girls-2-77af3a",
+      "namespace": "973ce75835994a35ab386d56ed2dffa3",
+      "title": "River City Girls 2",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/river-city-girls-2-77af3a",
+      "freePeriod": {
+        "start": "2026-07-02T15:00:00+00:00",
+        "end": "2026-07-09T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 86,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "4ef54d5829b04656902dfa1f29b3b732",
+      "slug": "i-have-no-mouth-and-i-must-scream-95c5c2",
+      "namespace": "2e13c6ccfb3147ec8c67985160c48296",
+      "title": "I Have No Mouth, and I Must Scream",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+      "freePeriod": {
+        "start": "2026-07-02T15:00:00+00:00",
+        "end": "2026-07-09T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 89,
         "scoreColor": "green"
       }
     }

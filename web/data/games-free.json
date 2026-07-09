@@ -1,48 +1,6 @@
 {
-  "updated": "2026-07-09T11:09:12.827535+00:00",
+  "updated": "2026-07-09T15:21:05.799401+00:00",
   "currentFree": [
-    {
-      "id": "9bf3d3188d1e498095bc23c0955538d9",
-      "slug": "river-city-girls-2-77af3a",
-      "namespace": "973ce75835994a35ab386d56ed2dffa3",
-      "title": "River City Girls 2",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/river-city-girls-2-77af3a",
-      "freePeriod": {
-        "start": "2026-07-02T15:00:00+00:00",
-        "end": "2026-07-09T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "epic": null,
-        "metacritic": null,
-        "opencritic": null,
-        "steam": 86,
-        "scoreColor": "green"
-      }
-    },
-    {
-      "id": "4ef54d5829b04656902dfa1f29b3b732",
-      "slug": "i-have-no-mouth-and-i-must-scream-95c5c2",
-      "namespace": "2e13c6ccfb3147ec8c67985160c48296",
-      "title": "I Have No Mouth, and I Must Scream",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/i-have-no-mouth-and-i-must-scream-95c5c2",
-      "freePeriod": {
-        "start": "2026-07-02T15:00:00+00:00",
-        "end": "2026-07-09T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "epic": null,
-        "metacritic": null,
-        "opencritic": null,
-        "steam": 89,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "e5da2c017d4d4afab9f4c56525b66100",
       "slug": "nova-lands-4d1788",
@@ -82,6 +40,28 @@
         "steam": 61,
         "scoreColor": "yellow"
       }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
+      "slug": "luto-0a4ab3",
+      "namespace": "9f3ffc77b7264d63859bfd9bc935c9f8",
+      "title": "Luto",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/luto-0a4ab3",
+      "freePeriod": {
+        "start": "2026-07-16T15:00:00+00:00",
+        "end": "2026-07-23T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 83,
+        "opencritic": null,
+        "steam": 85,
+        "scoreColor": "green"
+      }
     },
     {
       "id": "371545146a944478ad5a87f9b581ac29",
@@ -105,6 +85,46 @@
     }
   ],
   "past": [
+    {
+      "id": "9bf3d3188d1e498095bc23c0955538d9",
+      "slug": "river-city-girls-2-77af3a",
+      "namespace": "973ce75835994a35ab386d56ed2dffa3",
+      "title": "River City Girls 2",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/river-city-girls-2-77af3a",
+      "freePeriod": {
+        "start": "2026-07-02T15:00:00+00:00",
+        "end": "2026-07-09T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 86,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "4ef54d5829b04656902dfa1f29b3b732",
+      "slug": "i-have-no-mouth-and-i-must-scream-95c5c2",
+      "namespace": "2e13c6ccfb3147ec8c67985160c48296",
+      "title": "I Have No Mouth, and I Must Scream",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+      "freePeriod": {
+        "start": "2026-07-02T15:00:00+00:00",
+        "end": "2026-07-09T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": null,
+        "opencritic": null,
+        "steam": 89,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "4ec50a302f1449b3bf706a199c333ab8",
       "slug": "rollercoaster-tycoon-3-complete-edition",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T11:11:35.702456+00:00",
+  "updated": "2026-07-30T14:14:07.956562+00:00",
   "currentFree": [
     {
       "id": "223c59e227e74e079a1bbe5a234b896f",
@@ -40,6 +40,26 @@
         "metacritic": 83,
         "opencritic": null,
         "steam": 98,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "231e8f6d250a453f9c44c0adf3a34656",
+      "slug": "we-were-here-together-6a6d66",
+      "namespace": "c5f6069e7dd644dab009294f0fddc7a7",
+      "title": "We Were Here Together",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/we-were-here-together-6a6d66",
+      "freePeriod": {
+        "start": "2026-08-06T15:00:00+00:00",
+        "end": "2026-08-13T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 77,
+        "opencritic": null,
+        "steam": 82,
         "scoreColor": "green"
       }
     },

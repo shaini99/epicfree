@@ -1,6 +1,70 @@
 {
-  "updated": "2026-09-03T13:25:58.144969+00:00",
+  "updated": "2026-09-03T17:42:36.790984+00:00",
   "currentFree": [
+    {
+      "id": "b8cc76ce7d6645f0a282b843a072cc78",
+      "slug": "alone-with-you-028a15",
+      "namespace": "cb87ac984c3c4c19b0a4e3e89048f187",
+      "title": "Alone With You",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/alone-with-you-028a15",
+      "freePeriod": {
+        "start": "2026-09-03T15:00:00+00:00",
+        "end": "2026-09-10T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 74,
+        "opencritic": null,
+        "steam": 78,
+        "scoreColor": "yellow"
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "c76046dddcdb43619c33ce0395941033",
+      "slug": "luftrausers-51e5e9",
+      "namespace": "639daf403b554ee9b02eee5eedafc302",
+      "title": "Luftrausers",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/luftrausers-51e5e9",
+      "freePeriod": {
+        "start": "2026-09-10T15:00:00+00:00",
+        "end": "2026-09-17T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 80,
+        "opencritic": null,
+        "steam": 91,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "e9bb092228f544c582e2c9395fae96f3",
+      "slug": "astral-ascent-b33bc2",
+      "namespace": "0cb5817d554740e8bedf9ceea32522bd",
+      "title": "Astral Ascent",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/astral-ascent-b33bc2",
+      "freePeriod": {
+        "start": "2026-09-10T15:00:00+00:00",
+        "end": "2026-09-17T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 86,
+        "opencritic": null,
+        "steam": 94,
+        "scoreColor": "green"
+      }
+    }
+  ],
+  "past": [
     {
       "id": "8401414902e84f2cb9afa9142f051d32",
       "slug": "breathedge",
@@ -33,31 +97,7 @@
         "end": "2026-09-03T15:00:00+00:00"
       },
       "genres": []
-    }
-  ],
-  "upcoming": [
-    {
-      "id": "b8cc76ce7d6645f0a282b843a072cc78",
-      "slug": "alone-with-you-028a15",
-      "namespace": "cb87ac984c3c4c19b0a4e3e89048f187",
-      "title": "Alone With You",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/alone-with-you-028a15",
-      "freePeriod": {
-        "start": "2026-09-03T15:00:00+00:00",
-        "end": "2026-09-10T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "epic": null,
-        "metacritic": 74,
-        "opencritic": null,
-        "steam": 78,
-        "scoreColor": "yellow"
-      }
-    }
-  ],
-  "past": [
+    },
     {
       "id": "b467b7d3570e44c0b84e59475f4a5636",
       "slug": "cardpocalypse",

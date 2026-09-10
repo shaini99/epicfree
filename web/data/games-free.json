@@ -1,28 +1,6 @@
 {
-  "updated": "2026-09-10T14:10:18.868536+00:00",
+  "updated": "2026-09-10T18:13:17.497972+00:00",
   "currentFree": [
-    {
-      "id": "b8cc76ce7d6645f0a282b843a072cc78",
-      "slug": "alone-with-you-028a15",
-      "namespace": "cb87ac984c3c4c19b0a4e3e89048f187",
-      "title": "Alone With You",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/alone-with-you-028a15",
-      "freePeriod": {
-        "start": "2026-09-03T15:00:00+00:00",
-        "end": "2026-09-10T15:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "epic": null,
-        "metacritic": 74,
-        "opencritic": null,
-        "steam": 78,
-        "scoreColor": "yellow"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "c76046dddcdb43619c33ce0395941033",
       "slug": "luftrausers-51e5e9",
@@ -62,6 +40,28 @@
         "steam": 94,
         "scoreColor": "green"
       }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "8a20c6c8d5b5417e800c687e9d72013e",
+      "slug": "mindcop-78e6c1",
+      "namespace": "f20a4eda0f2d486ea73cab8af1224e31",
+      "title": "Mindcop",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+      "epicUrl": "https://store.epicgames.com/ko/p/mindcop-78e6c1",
+      "freePeriod": {
+        "start": "2026-09-17T15:00:00+00:00",
+        "end": "2026-09-24T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 87,
+        "opencritic": null,
+        "steam": 94,
+        "scoreColor": "green"
+      }
     },
     {
       "id": "b9ff3f98367a45cdac289dff6683a2bc",
@@ -85,6 +85,26 @@
     }
   ],
   "past": [
+    {
+      "id": "b8cc76ce7d6645f0a282b843a072cc78",
+      "slug": "alone-with-you-028a15",
+      "namespace": "cb87ac984c3c4c19b0a4e3e89048f187",
+      "title": "Alone With You",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/alone-with-you-028a15",
+      "freePeriod": {
+        "start": "2026-09-03T15:00:00+00:00",
+        "end": "2026-09-10T15:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 74,
+        "opencritic": null,
+        "steam": 78,
+        "scoreColor": "yellow"
+      }
+    },
     {
       "id": "8401414902e84f2cb9afa9142f051d32",
       "slug": "breathedge",

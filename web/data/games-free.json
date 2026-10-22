@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T09:55:11.578278+00:00",
+  "updated": "2026-10-22T14:58:22.765644+00:00",
   "currentFree": [
     {
       "id": "6a846880836044a2adad614ac771f487",
@@ -60,6 +60,26 @@
         "metacritic": null,
         "opencritic": null,
         "steam": 83,
+        "scoreColor": "green"
+      }
+    },
+    {
+      "id": "4e469c7d8bbf49bcabc2c07127d3d946",
+      "slug": "sorry-were-closed-724c86",
+      "namespace": "489af623d8284d518502f8ee9d33b828",
+      "title": "Sorry We're Closed",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/sorry-were-closed-724c86",
+      "freePeriod": {
+        "start": "2026-10-29T15:00:00+00:00",
+        "end": "2026-11-05T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 83,
+        "opencritic": null,
+        "steam": 98,
         "scoreColor": "green"
       }
     },

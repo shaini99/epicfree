@@ -1,28 +1,6 @@
 {
-  "updated": "2026-11-26T14:51:34.963498+00:00",
+  "updated": "2026-11-26T23:36:47.086749+00:00",
   "currentFree": [
-    {
-      "id": "1f9a12b06b4f437790b6913ad136a08c",
-      "slug": "mark-of-the-deep-f7dc08",
-      "namespace": "3d6441ab9d4246208bc97d7babf664b5",
-      "title": "Mark of the Deep",
-      "thumbnail": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
-      "epicUrl": "https://store.epicgames.com/ko/p/mark-of-the-deep-f7dc08",
-      "freePeriod": {
-        "start": "2026-11-19T16:00:00+00:00",
-        "end": "2026-11-26T16:00:00+00:00"
-      },
-      "genres": [],
-      "rating": {
-        "epic": null,
-        "metacritic": 81,
-        "opencritic": null,
-        "steam": null,
-        "scoreColor": "green"
-      }
-    }
-  ],
-  "upcoming": [
     {
       "id": "0623017cf9f341efbe07557f46beb4e8",
       "slug": "firestone-online-idle-rpg-bfd04b",
@@ -48,7 +26,9 @@
         "end": "2026-12-03T16:00:00+00:00"
       },
       "genres": []
-    },
+    }
+  ],
+  "upcoming": [
     {
       "id": "72bd05148adb4e2cacb8b2efaa4c0297",
       "slug": "strange-antiquities-e37660",
@@ -71,6 +51,26 @@
     }
   ],
   "past": [
+    {
+      "id": "1f9a12b06b4f437790b6913ad136a08c",
+      "slug": "mark-of-the-deep-f7dc08",
+      "namespace": "3d6441ab9d4246208bc97d7babf664b5",
+      "title": "Mark of the Deep",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/mark-of-the-deep-f7dc08",
+      "freePeriod": {
+        "start": "2026-11-19T16:00:00+00:00",
+        "end": "2026-11-26T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 81,
+        "opencritic": null,
+        "steam": null,
+        "scoreColor": "green"
+      }
+    },
     {
       "id": "9975548b6d404a94b8a9bdb34cad49e9",
       "slug": "knightica-3be45c",

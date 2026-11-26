@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T04:48:15.639831+00:00",
+  "updated": "2026-11-26T14:51:34.963498+00:00",
   "currentFree": [
     {
       "id": "1f9a12b06b4f437790b6913ad136a08c",
@@ -48,6 +48,26 @@
         "end": "2026-12-03T16:00:00+00:00"
       },
       "genres": []
+    },
+    {
+      "id": "72bd05148adb4e2cacb8b2efaa4c0297",
+      "slug": "strange-antiquities-e37660",
+      "namespace": "ca2e8ee2cacc4b69abd275a50422b010",
+      "title": "Strange Antiquities",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/d0e3b7c3690c485ca7a435d298262ab2/strange-antiquities-1kl5s.png",
+      "epicUrl": "https://store.epicgames.com/ko/p/strange-antiquities-e37660",
+      "freePeriod": {
+        "start": "2026-12-03T16:00:00+00:00",
+        "end": "2026-12-10T16:00:00+00:00"
+      },
+      "genres": [],
+      "rating": {
+        "epic": null,
+        "metacritic": 81,
+        "opencritic": null,
+        "steam": null,
+        "scoreColor": "green"
+      }
     }
   ],
   "past": [
